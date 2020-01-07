@@ -1,0 +1,7 @@
+.idea/
+node_modules/
+*.log
+TypeScript/**/*.js
+TypeScript/**/*.map
+typings/
+dist/
