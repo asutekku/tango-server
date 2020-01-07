@@ -5,3 +5,6 @@ TypeScript/**/*.js
 TypeScript/**/*.map
 typings/
 dist/
+/dist/
+errors.log
+yarn-error.log
